@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prathamgrover7
 - 👀 I’m interested in Artificial Intelligence,Machine Learning and Deep Learning
 - 🌱 I’m currently working in Genomic Data Science, Artificial Intelligence applications in Healthcare and programming robots for a startup in the field of sustainable development
-- 📫 You can reach me through LinkedIn - www.linkedin.com/in/ 
+- 📫 You can reach me through my Mail ID- prathamgrover777@gmail.com 
 pratham-grover-428123147
 
 
