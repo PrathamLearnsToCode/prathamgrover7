@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Genomic Data Science, AI applications in Healthcare, Data Driven Astronomy and programming robots for a startup in the field of sustainable development**
 
-- 🌱 I’m currently learning **Natural Language Processing and MLOps**
+- 🌱 I’m currently learning **Natural Language Processing and Advanced Mathematics behind Machine Learning**
 
 - 📫 How to reach me **prathamgrover777@gmail.com**
 
